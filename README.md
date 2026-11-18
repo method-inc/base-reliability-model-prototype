@@ -6,7 +6,7 @@ A clickable sales prototype of the data-submitter experience: upload a topology 
 
 ### 1. Before you present (2 min)
 
-- **Live demo:** [https://shreeyavrokade.github.io/brm-prototype/](https://shreeyavrokade.github.io/brm-prototype/). No setup needed. Updates on every push to `main`.
+- **Live demo:** (https://method-inc.github.io/base-reliability-model-prototype/)). No setup needed. Updates on every push to `main`.
 
 - **Or run it locally:**
 
